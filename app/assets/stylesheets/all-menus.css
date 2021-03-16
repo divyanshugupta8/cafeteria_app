@@ -6,14 +6,14 @@
 .active-menus-count{
   font-size: 17px;
   font-weight: 500;
-  color: #361e1e;
+  color: goldenrod;
   margin-left: 46px;
 }
 
 .active-items-count{
   font-size: 17px;
   font-weight: 500;
-  color: #361e1e;
+  color:goldenrod;
   margin-right: 46px;
 }
 
@@ -31,13 +31,13 @@
   text-align: center;
   display: grid;
   grid-row-gap: 12px;
-  background-color: #f7f7f7;//#f6b037;//#f1e577;
+  background-color: #f7f7f7;
   border-radius: 6px;
   transition: background-color 0.3s;
 }
 
 .menu:hover{
-  background-color: #82d8cf;//#f69e06;//#f5e556;
+  background-color: goldenrod;
 }
 
 .edit-delete-block{
@@ -85,7 +85,7 @@
   content: '';
   width: 0;
   height: 2px;
-  background-color: #442727;
+  background-color:goldenrod;
   position: absolute;
   top: 100%;
   left: 0;

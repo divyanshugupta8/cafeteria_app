@@ -22,11 +22,11 @@
 	  	  <div class="container navbar">
           <div class="left-part">
             <%= link_to "/" do %>
-              <h1 class="navbar-title"> <i class="fa fa-cutlery brand-icon" aria-hidden="true"></i>Dine</h1>
+              <h1 class="navbar-title"> <i class="fa fa-cutlery brand-icon" aria-hidden="true"></i>Taste Buds</h1>
             <% end %>
           </div>
           <div class="right-part">
-            <p class="quote">Experience the flavour</p>
+            <p class="quote">Test Your Taste-Buds</p>
 	  		    <div class="tags">
               <%= link_to "/" do %>
                 <p class="tag"> <i class="fa fa-home"></i> Home </p>
@@ -110,7 +110,7 @@
     <section id="footer">
       <div class="container footer-grid">
         <div class="footer-left">
-          <h1 class="footer-title">Dine</h1>
+          <h1 class="footer-title">Taste Buds</h1>
           <div class="social">
             <%= link_to @twitter_handle do %>
               <i class="fa fa-twitter fa-2x social-icon" aria-hidden="true"></i>
@@ -127,9 +127,9 @@
           <div class="footer-right-grid">
             <div class="info">
               <% if @current_user == nil || @current_user.role == "customer" %>
-                <%= link_to "Careers & Franchise", new_applicant_path,class: "info-tag" %>
+                <%= link_to "Careers", new_applicant_path,class: "info-tag" %>
               <% else %>
-                <%= link_to "Careers & Franchise", applicants_path,class: "info-tag" %>
+                <%= link_to "Careers", applicants_path,class: "info-tag" %>
               <% end %>
               <%= link_to "FAQ", questions_path, class: "info-tag" %>
               <% if @current_user == nil || @current_user.role == "customer" %>

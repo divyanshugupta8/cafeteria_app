@@ -70,14 +70,14 @@
   display: inline-block;
   font-size: 28px;
   font-weight: 600;
-  color: #361e1e;
+  color: goldenrod;
 }
 
 .menu-content-item-count, .menu-category-item-count{
   display: inline;
   font-size: 14px;
   font-weight: 500;
-  color: #361e1e;
+  color: goldenrod;
   margin-left: 12px;
 }
 
@@ -85,7 +85,7 @@
   display: inline-block;
   font-size: 24px;
   font-weight: 500;
-  color: #361e1e;
+  color: goldenrod;
 }
 
 .menu-categories{
@@ -113,7 +113,7 @@
 }
 
 .menu-category-menu-item:hover{
-  background-color: #82d8cf;
+  background-color: goldenrod;
 }
 
 .menu-category-menu-item-edit-icon{

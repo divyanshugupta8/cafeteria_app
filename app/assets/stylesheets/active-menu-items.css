@@ -49,12 +49,12 @@
 }
 
 .category-item:hover{
-  background-color: #82d8cf;
+  background-color: goldenrod;
 }
 
 .menu-item-name{
   font-size: 20px;
-  color: #2e5757;
+  color: goldenrod;
 }
 
 .menu-item-description{
@@ -65,7 +65,7 @@
 .menu-item-price{
   font-size: 18px;
   font-weight: 500;
-  color: #640819;
+  color: goldenrod;
 }
 
 .menu-item-quantity{

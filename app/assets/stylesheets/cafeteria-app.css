@@ -11,7 +11,7 @@
 }
 
 #main-header{
-  background-color: #435248;
+  background-color: goldenrod;
   color: #fff;
   position: sticky;
   top: 0;
@@ -45,7 +45,7 @@ padding: 20px 0 2px;
 .brand-icon{
   font-size: 52px;
   margin-right: 16px;
-  color: #63b7af;
+  color: #000;
   position: relative;
   bottom: 6px;
 }
@@ -58,7 +58,7 @@ padding: 20px 0 2px;
 }
 
 .navbar-title:hover{
-  color: #63b7af;
+  color: #000;
 }
 
 .navbar-title:hover .brand-icon{
@@ -72,7 +72,7 @@ padding: 20px 0 2px;
 
 .tag{
   min-width: 100px;
-  color: #ffe0ac;
+  color: #000;
 }
 
 .tag:hover{
@@ -80,7 +80,7 @@ padding: 20px 0 2px;
 }
 
 .drop-down-tags{
-  background-color: #435248;
+  background-color: goldenrod;
   width: 165px;
   display: none;
 }
@@ -148,7 +148,7 @@ padding: 20px 0 2px;
 }
 
 .social-icon:hover{
-  color: #63b7af;
+  color: goldenrod;
 }
 
 .footer-right{
@@ -167,7 +167,7 @@ padding: 20px 0 2px;
 }
 
 .info-tag:hover{
-  color: #63b7af;
+  color: goldenrod;
 }
 
 .address{
@@ -189,7 +189,7 @@ padding: 20px 0 2px;
   border-radius: 6px;
   font-size: 18px;
   font-weight: 500;
-  color: #63b7af;
+  color: goldenrod;
   display: inline-block;
   padding: 12px 20px;
   position: relative;
@@ -198,7 +198,7 @@ padding: 20px 0 2px;
 }
 
 .mailus:hover{
-  background-color: #4c6b68;
+  background-color: goldenrod;
   color: white;
   font-weight: 600;
 }
