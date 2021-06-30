@@ -22,3 +22,20 @@ The billing clerk is the person taking customer orders directly from the counter
 
 # Owner Page
 # <img src = "/App images/OwnerPage.png" width="100%" height="100%"/>
+
+# Profile Page
+# <img src = "/App images/PROFILE PAGE.png" width="100%" height="100%"/>
+
+# Add Menu
+# <img src = "/App images/ADD MENU.png" width="100%" height="100%"/>
+
+# Add Category
+# <img src = "/App images/ADD Category.png" width="100%" height="100%"/>
+
+# Add Item
+# <img src = "/App images/ADD ITEM.png" width="100%" height="100%"/>
+
+# Menu Page
+# <img src = "/App images/MENU PAGE.png" width="100%" height="100%"/>
+
+
