@@ -22,6 +22,7 @@ The billing clerk is the person taking customer orders directly from the counter
 
 # Owner Page
 # <img src = "/App images/OwnerPage.png" width="100%" height="100%"/>
+# <img src = "/App images/Employee and Customer Database.png" width="100%" height="100%"/>
 
 # Profile Page
 # <img src = "/App images/PROFILE PAGE.png" width="100%" height="100%"/>
@@ -37,5 +38,33 @@ The billing clerk is the person taking customer orders directly from the counter
 
 # Menu Page
 # <img src = "/App images/MENU PAGE.png" width="100%" height="100%"/>
+
+# Cart
+# <img src = "/App images/Cart.png" width="100%" height="100%"/>
+
+# Order Status
+# <img src = "/App images/Order status.png" width="100%" height="100%"/>
+
+# Order Reports
+# <img src = "/App images/Order Reports.png" width="100%" height="100%"/>
+
+# Invoice
+# <img src = "/App images/INVOICE.png" width="100%" height="100%"/>
+
+# Add Social Media Info
+# <img src = "/App images/ADD socialmedia.png" width="100%" height="100%"/>
+
+# Add Terms & Conditions
+# <img src = "/App images/Add T&C.png" width="100%" height="100%"/>
+
+# Add Address
+# <img src = "/App images/Add address.png" width="100%" height="100%"/>
+
+# Ask FAQ!
+# <img src = "/App images/FAQ.png" width="100%" height="100%"/>
+
+# Carreers
+# <img src = "/App images/Carrers.png" width="100%" height="100%"/>
+
 
 
