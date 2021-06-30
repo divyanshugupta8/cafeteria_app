@@ -8,3 +8,5 @@ A customer who want to place an order online would want to see a menu from which
 
 # Cafeteria Billing Clerk: 
 The billing clerk is the person taking customer orders directly from the counter. They shouldbe able to create new invoices, print them, and see order status. However they should not be able to modify itemdetails or see reports like Profit & Loss since they should be seen only by the owner.
+
+# <img src = "/App images/FrontPage1.png.png" width="100%" height="100%"/>
