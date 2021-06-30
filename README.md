@@ -64,7 +64,7 @@ The billing clerk is the person taking customer orders directly from the counter
 # <img src = "/App images/FAQ.png" width="100%" height="100%"/>
 
 # Carreers
-# <img src = "/App images/Carrers.png" width="100%" height="100%"/>
+# <img src = "/App images/Careers.png" width="100%" height="100%"/>
 
 
 
